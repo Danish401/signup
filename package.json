@@ -1,8 +1,8 @@
 {
-  "name": "signuplogin",
+  "name": "danish-signuplogin",
   "version": "1.0.0",
   "description": "signup and login",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "npm run test",
      "build": "webpack --mode production"
